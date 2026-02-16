@@ -8,9 +8,7 @@ Device accuracy is driven mostly by input modulation, MCU measurment mode and th
 
 The device is meant as a frequency detector not so much for absolute frequency measurment although in some aplications it may work. It will be used as part of another project for device band selection, where realistcally +-0.5MHz is accurate enough.
 <img width="987" height="829" alt="merilnikfrekvenc" src="https://github.com/user-attachments/assets/d90972bc-df91-4824-97a4-b43c4201894f" />
-![20260215_215544](https://github.com/user-attachments/assets/bee05ce0-f5ce-4e62-b66b-3342f8b029f9)
 ![20260215_215532](https://github.com/user-attachments/assets/738c96a8-abab-4caa-bd5b-67be481a5bc2)
-![20260215_215604](https://github.com/user-attachments/assets/36d1abfa-2419-44f2-bf51-f5a2a0bc63e1)
 ![20260215_213930](https://github.com/user-attachments/assets/4b7970c5-d07e-4711-bf57-3d56a93bd624)
 
 
